@@ -1,6 +1,6 @@
-# ChatFlow 💬
+# MVP-Chat 💬
 
-ChatFlow is a sleek and feature-rich chat application where authenticated users can create channels, engage in conversations, and share files seamlessly. Designed for modern communication, ChatFlow is equipped with emojis, file uploads, and a polished user interface.
+MVP-Chat is a sleek and feature-rich chat application where authenticated users can create channels, engage in conversations, and share files seamlessly. Designed for modern communication, MVP-Chat is equipped with emojis, file uploads, and a polished user interface.
 
 ## 🌟 Features
 
