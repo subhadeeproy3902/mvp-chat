@@ -24,6 +24,8 @@ ChatFlow is a sleek and feature-rich chat application where authenticated users 
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 ## 🛠️ Core Dependencies
 
 - [Next.js](https://nextjs.org/)
