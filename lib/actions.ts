@@ -7,7 +7,7 @@ import { NewConversationFormSchema } from '@/lib/schemas'
 
 const serverClient = StreamChat.getInstance(
   process.env.NEXT_PUBLIC_STREAM_API_KEY!,
-  process.env.STREAM_API_SECRET
+  process.env.STREAM_API_SECRET!
 )
 
 export async function createToken(userId: string): Promise<string> {
